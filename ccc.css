@@ -1,0 +1,83 @@
+h1 {
+    font-family: Verdana;
+    font-size: 30px;
+    font-style: oblique;
+}
+
+.ingredients {
+    font-family: 'Courier New';
+    font-size: 20px;
+    font-style: italic;
+    color:blueviolet;
+}
+
+.recipe {
+    font-family: 'Franklin Gothic Medium';
+    font-size: 19px;
+    font-style: inherit;
+    color: crimson;
+}
+
+ul {
+    font-style: initial;
+    font-family: Arial;
+    font-size: 16px;
+    color: blueviolet;
+    
+}
+
+ol {
+    font-family: Cambria, Cochin;
+    font-size: 15px;
+    font-style: unset;
+    color: crimson;
+    border: 2px solid black;
+}
+
+header {
+    background-color: blanchedalmond;
+    margin: auto;
+    padding: 20px;
+    text-align: center;
+    color: black;
+}
+footer {
+    background-color: bisque;
+    margin: auto;
+    padding: 20px;
+    text-align: center;
+    color: black;
+}
+
+body section{
+    background-color:antiquewhite;
+}
+
+a:hover {
+    box-shadow: 0 0 10px rgba(52,152,219,0.8);
+}
+
+#other-resources {
+    font-size: 24px;
+    color: darkblue;
+    text-transform: capitalize;
+    
+}
+
+html {
+    background-color: beige;
+}
+
+.submit-btn {
+    background-color: black;
+    color: white;
+    padding: 15px 30px;
+    font-size: 18px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.submit-btn:hover {
+    box-shadow: 0 0 10px rgba(52,152,219,0.8);
+}
